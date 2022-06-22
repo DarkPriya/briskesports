@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+themebeyond.com	TRUE	/demo/haldalive/	FALSE	1999999999	woocommerce_items_in_cart	1
+themebeyond.com	TRUE	/demo/haldalive/	FALSE	1999999999	wp_woocommerce_session_b2b7f9d4433e1124aca52fe02e3c5b40	t_5bd71dae9ae4fc18009af517cafb30%7C%7C1652985512%7C%7C1652981912%7C%7Cafea08cbc004edc7fd0708c96e8954aa
+themebeyond.com	TRUE	/demo/haldalive/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+themebeyond.com	TRUE	/demo/haldalive/	FALSE	1999999999	woocommerce_cart_hash	7cd218b5ad53e18cfb87ca238fabae00
+

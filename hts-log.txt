@@ -1,0 +1,61 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 May 2022 00:06:28 at https://themebeyond.com/demo/haldalive/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themebeyond.com/demo/haldalive/ -O1 "D:\Websites\BRISK ESPORTS" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:12:36	Warning: 	Found for https://themebeyond.com/demo/haldalive/checkout/
+00:12:36	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/checkout/ to https://themebeyond.com/demo/haldalive/cart/
+00:12:49	Warning: 	Found for https://themebeyond.com/demo/haldalive/wp-admin/
+00:12:49	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/wp-admin/ to https://themebeyond.com/demo/haldalive/wp-login.php?redirect_to=https%3A%2F%2Fthemebeyond.com%2Fdemo%2Fhaldalive%2Fwp-admin%2F&reauth=1
+00:13:36	Error: 	"Not Found" (404) at link https://themebeyond.com/demo/haldalive/wp-content/themes/halda/assets/fonts/REFAULT.eot (from https://themebeyond.com/demo/haldalive/wp-content/themes/halda/assets/css/halda-core.css?ver=5.9.3)
+00:13:36	Error: 	"Not Found" (404) at link https://themebeyond.com/demo/haldalive/wp-content/themes/halda/assets/fonts/REFAULT.eot? (from https://themebeyond.com/demo/haldalive/wp-content/themes/halda/assets/css/halda-core.css?ver=5.9.3)
+00:13:38	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=49
+00:13:38	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=49 to https://themebeyond.com/demo/haldalive/home-two/
+00:13:38	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=51
+00:13:38	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=51 to https://themebeyond.com/demo/haldalive/home-three/
+00:13:38	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=53
+00:13:38	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=53 to https://themebeyond.com/demo/haldalive/about-us/
+00:13:39	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=78
+00:13:39	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=78 to https://themebeyond.com/demo/haldalive/tournaments/
+00:13:39	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=58
+00:13:39	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=58 to https://themebeyond.com/demo/haldalive/our-squad/
+00:13:39	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=437
+00:13:39	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=437 to https://themebeyond.com/demo/haldalive/squad-details/
+00:15:13	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=114
+00:15:13	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=114 to https://themebeyond.com/demo/haldalive/product/flag-grenade/
+00:15:14	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=84
+00:15:14	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=84 to https://themebeyond.com/demo/haldalive/cart/
+00:15:27	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=135
+00:15:27	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=135 to https://themebeyond.com/demo/haldalive/a-complete-guide-to-mobile-app-marketing/
+00:15:27	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=64
+00:15:27	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=64 to https://themebeyond.com/demo/haldalive/contact/
+00:15:32	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=118
+00:15:32	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=118 to https://themebeyond.com/demo/haldalive/product/laptop-xii/
+00:15:34	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=117
+00:15:34	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=117 to https://themebeyond.com/demo/haldalive/product/royal-pass/
+00:15:38	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=116
+00:15:38	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=116 to https://themebeyond.com/demo/haldalive/product/g-laptop/
+00:15:45	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=134
+00:15:45	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=134 to https://themebeyond.com/demo/haldalive/improving-the-cdo-flow-for-your-application/
+00:15:47	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=96
+00:15:47	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=96 to https://themebeyond.com/demo/haldalive/product/controller/
+00:15:47	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=113
+00:15:47	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=113 to https://themebeyond.com/demo/haldalive/product/gaming-mask/
+00:15:51	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=91
+00:15:51	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=91 to https://themebeyond.com/demo/haldalive/product/headphones/
+00:15:55	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=115
+00:15:55	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=115 to https://themebeyond.com/demo/haldalive/product/gaming-console/
+00:16:00	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=132
+00:16:00	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=132 to https://themebeyond.com/demo/haldalive/good-design-is-all-about-good-timing/
+00:16:00	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/blog/page/1/
+00:16:00	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/blog/page/1/ to https://themebeyond.com/demo/haldalive/blog/
+00:16:09	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=102
+00:16:09	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=102 to https://themebeyond.com/demo/haldalive/those-html-attributes-you-never-use/
+00:16:10	Warning: 	Moved Permanently for https://themebeyond.com/demo/haldalive/?p=86
+00:16:10	Warning: 	File has moved from https://themebeyond.com/demo/haldalive/?p=86 to https://themebeyond.com/demo/haldalive/my-account/
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 42 seconds : 643 links scanned, 616 files written (39251583 bytes overall) [18797109 bytes received at 32297 bytes/sec], 25965483 bytes transferred using HTTP compression in 379 files, ratio 18%, 32.1 requests per connection
+(2 errors, 48 warnings, 0 messages)
